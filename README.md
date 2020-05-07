@@ -15,3 +15,12 @@ ft_server sources
 * https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-debian-9
 * https://docs.docker.com/config/containers/multi-service_container/
 * https://docs.docker.com/config/containers/multi-service_container/
+
+how to build and run dockerfile?
+
+* docker build [option] [image name] [path]
+   
+   -> docker build -t ft_server .
+* docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+    
+    -> docker run -it -p 80:80 -p 443:443 ft_server
