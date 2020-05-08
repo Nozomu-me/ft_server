@@ -20,7 +20,7 @@ how to build and run dockerfile?
 
 * docker build [option] [image name] [path]
    
-   -> docker build -t ft_server .
+   exemple -> docker build -t ft_server .
 * docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
     
-    -> docker run -it -p 80:80 -p 443:443 ft_server
+    example -> docker run -it -p 80:80 -p 443:443 ft_server
