@@ -24,3 +24,7 @@ how to build and run dockerfile?
 * docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
     
     example -> docker run -it -p 80:80 -p 443:443 ft_server
+    
+* useful commands
+
+    docker exec -it [container id] bash  ->  to access container bash
