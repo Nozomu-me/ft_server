@@ -14,7 +14,6 @@ ft_server sources
 * https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
 * https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-on-debian-9
 * https://docs.docker.com/config/containers/multi-service_container/
-* https://docs.docker.com/config/containers/multi-service_container/
 
 how to build and run dockerfile?
 
